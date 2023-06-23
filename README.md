@@ -14,7 +14,7 @@ Software-savvy quality assurance professional committed to ensuring proper funct
 * 👯 I’m looking to collaborate on **any product for quality and usable product**
 * ⚡  Open to work
 
-### Skills
+### Language and Tools
 
 
 <p align="left">
