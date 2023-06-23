@@ -53,5 +53,8 @@ Software-savvy quality assurance professional committed to ensuring proper funct
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickolow&show_icons=true&locale=en&layout=compact" alt="vickolow" /></p>
 
 <b>Top Repositories</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickolow&show_icons=true&locale=en&layout=compact" alt="vickolow" /></p>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickolow&show_icons=true&locale=en" alt="vickolow" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickolow&" alt="vickolow" /></p>
