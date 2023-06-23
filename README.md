@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aina Victor
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Aina Victor
 ====================================================================================================================================
 
 Software Quality Assurance Engineer
@@ -6,9 +6,9 @@ Software Quality Assurance Engineer
 
 Software-savvy quality assurance professional committed to ensuring proper functionality and usability of software products before release, with the desire to do the best possible job and produce outstanding quality products. I plan test schedules and strategies according to project scope and delivery dates. I monitor and track bug resolutions and review software documentation to verify technical accuracy and completeness to mitigate risks. With experience in manual, API, and basic knowledge in Web UI automation testing, I have knowledge of tools such as JIRA, Postman, Git and Selenium WebDriver.
 
-* ✉️  You can contact me at [ainavictorkolawole@gmail.com](mailto:ainavictorkolawole@gmail.com)
-* 💬 Ask me about **Manual Testing, Automation Testing(Web UI Automation,Mobile Automation,Api Automation Testing)**
-* 🤝  I'm open to collaborating on any Open Projects
+*  📫 How to reach me **ainavictorkolawole@gmail.com**
+* 💬 Ask me about **anything related to software testing or quality assurance**
+* 👯 I’m looking to collaborate on **any product for quality and usable product**
 * ⚡  Open to work
 
 ### Skills
@@ -31,6 +31,8 @@ Software-savvy quality assurance professional committed to ensuring proper funct
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Vickolow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aina-victor-kolawole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://twitter.com/vickollow" target="blank"><img src="https://img.shields.io/twitter/follow/vickollow?logo=twitter&style=for-the-badge" alt="vickollow" /></a> </p>
+
 
 ### Badges
 
