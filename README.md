@@ -7,7 +7,8 @@ Software Quality Assurance Engineer
 Software-savvy quality assurance professional committed to ensuring proper functionality and usability of software products before release, with the desire to do the best possible job and produce outstanding quality products. I plan test schedules and strategies according to project scope and delivery dates. I monitor and track bug resolutions and review software documentation to verify technical accuracy and completeness to mitigate risks. With experience in manual, API, and basic knowledge in Web UI automation testing, I have knowledge of tools such as JIRA, Postman, Git and Selenium WebDriver.
 
 * ✉️  You can contact me at [ainavictorkolawole@gmail.com](mailto:ainavictorkolawole@gmail.com)
-* 🤝  I'm open to collaborating on any Open projects
+* 💬 Ask me about **Manual Testing, Automation Testing(Web UI Automation,Mobile Automation,Api Automation Testing)**
+* 🤝  I'm open to collaborating on any Open Projects
 * ⚡  Open to work
 
 ### Skills
